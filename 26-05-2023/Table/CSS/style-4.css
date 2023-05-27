@@ -1,0 +1,41 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: teal;
+}
+div
+{
+    width: 40%;
+    height: auto;
+    margin-left: 5%;
+    background-color: rosybrown;
+    float: left;
+    padding: 25px;
+    color: white;
+    margin-top: 5%;
+    box-shadow: 3px 3px 3px black;
+}
+h1
+{
+    color: green;
+}
+hr
+{
+    width: 42%;
+    margin-left: 0%;
+}
+th
+{
+    color: aqua;
+}
+td
+{
+    color: aquamarine;
+    text-align: center;
+}
+.second
+{
+    color: blueviolet;
+}
